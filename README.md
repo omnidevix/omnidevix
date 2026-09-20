@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://omni-devix.vercel.app/images/favicon.webp" alt="OmniDevix Logo" />
+<img src="https://omni-devix.vercel.app/images/favicon.webp" alt="OmniDevix Logo" height="110" width="160" />
 
 # OmniDevix
 
@@ -8,11 +8,7 @@
 
 *Building fast, modern & scalable websites for businesses*
 
-[![Website](https://img.shields.io/badge/Website-omni--devix.vercel.app-F5A623?style=for-the-badge&logo=vercel&logoColor=white)](https://omni-devix.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-OmniDevix-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/omnidevix/)
-[![Instagram](https://img.shields.io/badge/Instagram-@omnidevix-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/omnidevix/)
-[![Twitter](https://img.shields.io/badge/Twitter-@OmniDevixTech-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/OmniDevixTech)
-[![Email](https://img.shields.io/badge/Email-omnidevix@gmail.com-F5A623?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omnidevix@gmail.com)
+[![Website](https://img.shields.io/badge/Website-F5A623?style=for-the-badge&logo=vercel&logoColor=white)](https://omni-devix.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/omnidevix/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/omnidevix/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/OmniDevixTech) [![Email](https://img.shields.io/badge/Email-F5A623?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omnidevix@gmail.com)
 
 ---
 

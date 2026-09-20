@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://omni-devix.vercel.app/images/favicon.webp" alt="OmniDevix Logo" width="120" height="120" />
+<img src="https://omni-devix.vercel.app/images/favicon.webp" alt="OmniDevix Logo" />
 
 # OmniDevix
 
